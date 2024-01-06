@@ -1,2 +1,3 @@
 # About-me
-Mahan Javadi is talking about a crazy programmer
+Mahan Javadi speaks
+The same as a crazy programmer
